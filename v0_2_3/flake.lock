@@ -204,10 +204,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs_2",
-        "src-measuremancer-master": "src-measuremancer-master"
+        "src-measuremancer-v0_2_3": "src-measuremancer-v0_2_3"
       }
     },
-    "src-measuremancer-master": {
+    "src-measuremancer-v0_2_3": {
       "flake": false,
       "locked": {
         "lastModified": 1668704632,
@@ -219,7 +219,7 @@
       },
       "original": {
         "owner": "SciNim",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/v0.2.3",
         "repo": "Measuremancer",
         "type": "github"
       }
